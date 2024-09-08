@@ -52,6 +52,7 @@ namespace COGAAR
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
+
             //Stopwatch timeMeasure = new Stopwatch();
             //timeMeasure.Start();
 
@@ -64,6 +65,13 @@ namespace COGAAR
             txtPrograma.Enabled = false;
             btnHabilitar.Enabled = true;
             btnGuardarArchivo.Enabled = true;
+
+            Lexer lexer = new Lexer(txtPrograma.Text);
+            lexer.Tokenize();
+
+            List<Dictionary<string, object>> tokens = lexer.GetTokens();
+            List<Dictionary<string, object>> identifiers = lexer.GetIdentifiersInfo();
+            List<Dictionary<string, object>> errors = lexer.DetectErrors();
 
             lineas.Clear();
             dgvErroresLexicos.Rows.Clear();
