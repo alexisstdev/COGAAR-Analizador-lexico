@@ -1,0 +1,10 @@
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\bin\Debug\COGAAR.exe.config
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\bin\Debug\COGAAR.exe
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\bin\Debug\COGAAR.pdb
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.csproj.AssemblyReference.cache
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.Form1.resources
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.Properties.Resources.resources
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.csproj.GenerateResource.cache
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.exe
+C:\Users\aleja\Documents\TEC\S6\Lenguajes y Automatas 1\Unidad 4\COGAAR\COGAAR\obj\Debug\COGAAR.pdb
